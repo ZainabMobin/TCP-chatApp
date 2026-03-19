@@ -52,4 +52,4 @@ Designed to provide a **reliable, real-time chat experience** using socket progr
 - Future improvements: GUI, authentication, server-side message storage.
 
 ## Demonstration Link:
-https://drive.google.com/file/d/1pQ0VWLMaBO7GVYnzYI628tDJrUVgkfjR/view?usp=sharing
+https://drive.google.com/drive/folders/1_lGV0ibQYmCn5O5JdvBZyk0Of9bB7j4u?usp=sharing
